@@ -1,0 +1,8 @@
+{
+  "name": "Profundización BMS — Diagnóstico Estratégico",
+  "description": "Aplicación de diagnóstico estratégico para Viral Content y Redes Sociales (Pilar 3 - CREA Y MONETIZA™), con algoritmos rigurosos de detección de inconsistencias y hoja de ruta en 9 fases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
